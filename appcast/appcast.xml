@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Hacker Bar</title>
+    <link>https://raw.githubusercontent.com/consolelabs/hacker-bar-releases/main/appcast/appcast.xml</link>
+    <description>Most recent changes with links to updates.</description>
+    <language>en</language>
+    <item>
+      <title>Version 2.0.0</title>
+      <pubDate>Fri, 19 Sep 2026 14:30:00 +0700</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/consolelabs/hacker-bar-releases/releases/download/v2.0.0/HackerBar-2.0.0.zip" sparkle:edSignature="RPjYXw+pZDtE34znByNtcnK1YTTYLnVPThtvRdXpN3OBEXx0MuiC4cwipPYta7P3f1W6locUHr4iGaGOqnI6Cw==" length="1441573" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
